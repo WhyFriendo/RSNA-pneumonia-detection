@@ -1,0 +1,17 @@
+numpy
+opencv-python
+matplotlib
+tqdm
+seaborn
+pydicom
+pandas
+torch
+torchvision
+Pillow
+imgaug
+kaggle
+torchmetrics
+scikit-learn
+scipy
+jupyter
+ipykernel

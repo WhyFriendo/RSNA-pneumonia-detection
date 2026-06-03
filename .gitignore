@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Data / Kaggle
+*.zip
+*.csv
+stage_2_*/
+sample_submission*
+*.dcm
+
+# Checkpoints & models
+checkpoints/
+*.pth
+
+# OS artifacts
+.DS_Store
+*.swp
